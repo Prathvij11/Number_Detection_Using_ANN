@@ -17,19 +17,6 @@ Requirements
 Python 3.x
 TensorFlow and Keras
 NumPy and Matplotlib for data manipulation and visualization
-Installation
-Clone this repository and install the required dependencies:
-
-bash
-Copy code
-git clone https://github.com/yourusername/number-detection-ann.git
-cd number-detection-ann
-pip install -r requirements.txt
-Usage
-Run the number_detection.py script to train the model:
-
-bash
-Copy code
 python number_detection.py
 Results
 The trained model achieves around 98% accuracy on the MNIST test set, demonstrating its effectiveness in recognizing handwritten digits.
